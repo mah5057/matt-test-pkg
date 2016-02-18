@@ -1,0 +1,19 @@
+{
+  "name": "matt-test-pkg",
+  "version": "1.0.0",
+  "description": "Hello World'ing a nodejs project with a package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mah5057/matt-test-pkg.git"
+  },
+  "author": "Matt Hardock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mah5057/matt-test-pkg/issues"
+  },
+  "homepage": "https://github.com/mah5057/matt-test-pkg#readme"
+}
